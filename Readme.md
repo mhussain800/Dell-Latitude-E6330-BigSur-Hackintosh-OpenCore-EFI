@@ -31,3 +31,7 @@ Dell Latitude E6330 macOS BigSur OpenCore Success
 + WiFi, Bluetooth (will work if you swap WiFi card with supported one like Broadcom, Intel, etc.)
 + Handoff, AirDrop and Apple Watch Unlock (until you use a Broadcom Wi-Fi card)
 + You tell me
+
+# Credits
+Special Thanks to
+https://github.com/Lost-Entrepreneur439
