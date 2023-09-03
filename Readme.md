@@ -34,4 +34,4 @@ Dell Latitude E6330 macOS BigSur OpenCore Success
 
 # Credits
 Special Thanks to
-https://github.com/Lost-Entrepreneur439
+- Lost-Entrepreneur439 https://github.com/Lost-Entrepreneur439
