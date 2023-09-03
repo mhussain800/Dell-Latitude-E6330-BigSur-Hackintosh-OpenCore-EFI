@@ -12,7 +12,7 @@ Dell Latitude E6330 macOS BigSur OpenCore Success
 + Ethernet card: Intel 82579LM
 + Touchpad: Alps
 + BIOS: A22
-Runs BigSur perfectly 👌
+- Runs BigSur perfectly 👌
 # ✅ Whats working
 + iGPU
 + All USB ports 
